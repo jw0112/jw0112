@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 
 ###  :muscle:Skills
 <p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
+
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
 
 </p>
 
