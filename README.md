@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - I'm currently interested in **Data Science** and **Explainable AI**.
-- I'm currently learning **Recommendation System**.
+- I'm currently learning **Recommender System**.
 - I want to be **Data Scientist of Smart City**.
 
 ###  :muscle:Skills
