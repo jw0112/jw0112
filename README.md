@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello. I'm currently interested in **Data Science** and **Explainable AI**. <b></b>
-I'm currently learning **Recommendation System**. \\ 
-I want to be **Data Scientist of Smart City**.
+- Hello. I'm currently interested in **Data Science** and **Explainable AI**.
+- I'm currently learning **Recommendation System**.
+- I want to be **Data Scientist of Smart City**.
 
 ###  :muscle:Skills
 <p>
