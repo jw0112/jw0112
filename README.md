@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 Hello. I'm currently interested in **Data Science** and **Explainable AI**.
 I'm currently learning **Recommendation System**.
+I want to be **Data Scientist of Smart City**.
 
 ###  :muscle:Skills
 <p>
@@ -30,6 +31,14 @@ I'm currently learning **Recommendation System**.
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
 
 </p>
+
+###  :hammer:Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logoGitHub&logoColor=white" />
+</p>
+
 
 <!--
 <b></b>
