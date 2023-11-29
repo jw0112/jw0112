@@ -26,4 +26,6 @@ Here are some ideas to get you started:
 ###  :mailbox: Contact
 
 <a href="mailto:chj2171@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoGmail&logoColor=white" ></a>
+<p>
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=jw0112)](https://github.com/jw0112/github-contribution-stats/)
+</p>
