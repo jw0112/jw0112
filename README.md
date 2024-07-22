@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- I'm currently working on a Master's degree in Statistical Data Science at University Of Seoul.
 - I'm currently interested in **Data Science** and **Explainable AI**.
-- I'm currently learning **Recommender System** at Naver Connect Foundation boostcamp AI Tech 6th.
-- I want to be **Data Scientist of Smart City**.
+- I learned **Recommender System** at Naver Connect Foundation boostcamp AI Tech 6th.
 
 ###  :muscle:Skills
 <p>
